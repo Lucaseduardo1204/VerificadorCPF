@@ -16,5 +16,5 @@ Durante o desenvolvimento, precisei:
 - Pesquisar as fórmulas de cálculo dos dígitos verificadores.
 - Pedir ajuda para lidar com **números repetidos no array**.
 - Praticar lógica, loops e manipulação de arrays em JavaScript.
-# Validador de CPF em JavaScript
+
 
